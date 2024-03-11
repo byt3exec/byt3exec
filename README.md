@@ -1,4 +1,7 @@
-## Hi there whoIam👋
+<h1 align=center
+  
+Hi there whoIam👋 </h1>
+  
 <br><br>
 
 ### 💻 Tech Stack:
