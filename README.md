@@ -1,7 +1,6 @@
 <h1 align=center
   
 Looking for raspberry v.5 ⚠️ </h1>
-<hr>
 
 <h4 align=center
   
