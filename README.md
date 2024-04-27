@@ -13,10 +13,6 @@ I'm a passionate Front-End Developer dedicated to building intuitive and respons
 - ***Performance Optimization***
 - ***Visual Design***
 
-## 📫 How to Reach Me
-
-- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/sulaiman-aziz/)
-
 [![](https://visitcount.itsvg.in/api?id=Emonilo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
