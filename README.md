@@ -11,17 +11,17 @@ I'm a passionate Front-End Developer dedicated to building intuitive and respons
 <div style="display: flex; align-items: flex-start; align: left">
   <table align="center">
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" alt="php-icon" width="65" height="65"><br>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" alt="php-icon" width="48" height="48"><br>
       PHP</td>
-      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js-icon" width="65" height="65"><br>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js-icon" width="48" height="48"><br>
       JavaScript</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java"><br>
       Java</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash"><br>
       Bash</td>
-      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"><br>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48"><br>
       MySQL</td>
-      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"><br>
+      <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48"><br>
       Github</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel"><br>
       Laravel</td>
