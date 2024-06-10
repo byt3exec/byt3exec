@@ -1,11 +1,36 @@
 ### Welcome to my Github 👋
 
-### 🌐 About Me
-I'm a passionate Front-End Developer dedicated to building intuitive and responsive user interfaces. 
+## 🌐 About Me
+<h4 >I'm a passionate Advanced Front-End Developer dedicated to building intuitive and responsive user interfaces. I'am also a software engineer who loves to solve complex problems & learn about systems  </h4>
+<ul>
+  <li>🌱 I have Knowledege and Experience around JavaScript, React, Mongo, Node, Java, SQL.</li>
+  <li>📝 Interest around Operating Systems, Databases, Networks</li>
+</ul>
 
 ### 💼 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<h2>Languages</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,c,cpp,bash)](https://skillicons.dev)
+
+<h2>Frameworks</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,redux,react,nextjs,tailwindcss)](https://skillicons.dev)
+
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres,redis)](https://skillicons.dev)
+
+<h2>Tools</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,vim,git,docker,kubernetes,linux)](https://skillicons.dev)
+
+<h2>Cloud</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+<hr>
 
 ### 💻 More
 <div style="display: flex; align-items: flex-start; align: left">
