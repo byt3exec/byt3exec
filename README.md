@@ -165,10 +165,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Emonilo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
 <div>
   <img
     width="100%"
