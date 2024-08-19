@@ -4,7 +4,7 @@
 <h4 >I'm a passionate Advanced Front-End Developer dedicated to building intuitive and responsive design interfaces.</h4>
 <ul>
   <li>🌱 I have Knowledege and Experience around JavaScript, React, Mongo, Node, Java, SQL.</li>
-  <li>📝 Interest around Operating Systems, Databases, Networks</li>
+  <li>📝 Interest around Operating Systems, Databases, Networks, and Security</li>
 </ul>
 
 ### 💼 Technologies & Tools
