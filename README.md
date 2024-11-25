@@ -1,6 +1,6 @@
 <h1 align="center">BYT3N33DL3</h1>
 <p align="center">
-  <img src="https://media.tenor.com/X4FqBgQMEs0AAAAM/cs-go-sniper.gif" width="600px">
+  <img src="https://media.tenor.com/X4FqBgQMEs0AAAAM/cs-go-sniper.gif" width="500px">
 </p>
 
 <div align="center">
